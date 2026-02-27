@@ -2,7 +2,7 @@
   
 <i>(Tubarão, SC - Brasil)</i>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([in/gabriel-ferreira-bordignon](https://www.linkedin.com/in/gabriel-ferreira-bordignon/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ferreira-bordignon/))
 
   ## 💻 Linguagens
   <a href="https://github.com/GabrielFerreiraBordignon?tab=repositories&q=&language=java"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
